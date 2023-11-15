@@ -11,3 +11,7 @@
 研究者提议的模型还能用来改变数学模型的推荐，从而更好地匹配化学家的集体专业知识，有望在今后早期药物研发中缩短迭代时间。他们认为，这种方法或能在药物研发中作为对分子建模的补充。（来源：中国科学报 晋楠）
 
 [点击下载](/papers/Extracting_medicinal_chemistry_intuition_via_preference_machine_learning.pdf)
+
+
+## x射线-三维肿瘤实时追踪技术  
+锥束X射线以其快速成像和易于集成的特性，成为放疗中实时引导的理想方式。为了解决放疗过程中软组织肿瘤难以实时无创地追踪的问题，提出了一种基于单角度锥束X射线投影的三维肿瘤实时追踪技术，成功实现在人体动态环境中对肿瘤的精确跟踪。该技术通过在放疗过程中将单角度锥束X射线投影与三维计划CT进行实时多维弹性配准，并利用transformer的卓越特征提取性能，实时地精准捕捉放疗中的三维肿瘤位。该单角度X光方法大幅减少了治疗过程的额外放射剂量，同时也节省了医生和患者的放疗时间，期望也可应用于各种临床背景的靶区实时定位任务。研究成果以Volumetric Tumor Tracking from a Single Cone-Beam X-Ray Projection Image enabled by Deep Learning为题，发表在医学影像分析顶刊Medical Image Analysis (IF=10.9)。研究助理戴晶晶为第一作者，梁晓坤副研究员为通讯作者。
